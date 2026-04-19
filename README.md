@@ -1,3 +1,3 @@
-# NSFW Discord Collector
+# Discord Media Selfbot Scrapper
 
-A Discord self bot to collect media in NSFW Servers
+A Discord self bot (user bot) to scrap media in discord server channels
